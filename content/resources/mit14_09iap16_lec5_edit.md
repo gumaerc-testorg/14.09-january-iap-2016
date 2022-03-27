@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4e32b339-61f6-e5ff-b11c-7661708f0d24
 resourcetype: Document
 title: 'Lecture 5: Maturity Mismatch and Bank Runs'
 uid: 3b2321c0-f434-296e-cb40-0e1a44b377d8

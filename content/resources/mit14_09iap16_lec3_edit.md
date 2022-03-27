@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4e32b339-61f6-e5ff-b11c-7661708f0d24
 resourcetype: Document
 title: 'Lecture 3: Leverage, Fire Sales, and Amplification Mechanisms'
 uid: 027f253a-d619-84bb-192f-1c5d4c060a17

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 464cf71a-8696-134c-d6b8-4234a51aa301
 resourcetype: Document
 title: Take Home Final Exam
 uid: 090d453e-68ab-95fd-03d6-e257cef234f2

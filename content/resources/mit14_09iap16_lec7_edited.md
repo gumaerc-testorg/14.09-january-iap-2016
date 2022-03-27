@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4e32b339-61f6-e5ff-b11c-7661708f0d24
 resourcetype: Document
 title: 'Lecture 7: Interconnections and Panics'
 uid: 3e802afa-6c3c-ffe1-9a19-827b93804f15

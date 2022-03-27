@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4e32b339-61f6-e5ff-b11c-7661708f0d24
 resourcetype: Document
 title: 'Lecture 8: Lessons and Policy Responses'
 uid: b3b998e1-0c95-ed5c-3242-f09036cb300d

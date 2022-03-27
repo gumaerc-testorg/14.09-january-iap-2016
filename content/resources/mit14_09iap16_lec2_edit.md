@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4e32b339-61f6-e5ff-b11c-7661708f0d24
 resourcetype: Document
 title: 'Lecture 2: Borrowing Constraints, the Net Worth Channel, and the Credit Crunch'
 uid: a433b163-7f44-770d-5b3c-9474a7823f20
