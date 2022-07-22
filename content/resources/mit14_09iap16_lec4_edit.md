@@ -5,6 +5,7 @@ file: /courses/14-09-financial-crises-january-iap-2016/21758d0c268eb7f87c10c9a25
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Lecture 4: Understanding Banks\u2019 Losses: Moral Hazard or Mistakes"
 uid: 21758d0c-268e-b7f8-7c10-c9a250bfd094
 ---
 Lecture slides on why financial institutions make losses.
-

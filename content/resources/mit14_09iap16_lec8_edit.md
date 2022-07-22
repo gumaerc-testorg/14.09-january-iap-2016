@@ -5,6 +5,7 @@ file: /courses/14-09-financial-crises-january-iap-2016/b3b998e10c95ed5c3242f0903
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 8: Lessons and Policy Responses'
 uid: b3b998e1-0c95-ed5c-3242-f09036cb300d
 ---
 Lecture slides on policy responses to financial crises.
-

@@ -5,6 +5,7 @@ file: /courses/14-09-financial-crises-january-iap-2016/207a907c80c74a5226dc97545
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Understanding Financial Crises: Lessons from History'
 uid: 207a907c-80c7-4a52-26dc-975456fccdff
 ---
 Lecture slides on the history of financial crises.
-
