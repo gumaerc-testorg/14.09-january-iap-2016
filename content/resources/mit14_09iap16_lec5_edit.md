@@ -4,6 +4,7 @@ description: Lecture slides on maturity mismatch, illiquidity, liquidity pooling
   bank runs, potential solutions to bank runs, and applying bank runs in modern financial
   markets.
 file: /courses/14-09-financial-crises-january-iap-2016/3b2321c0f434296ecb400e1a44b377d8_MIT14_09IAP16_lec5_edit.pdf
+file_size: 1250039
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

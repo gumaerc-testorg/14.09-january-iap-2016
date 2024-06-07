@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides on the history of financial crises.
 file: /courses/14-09-financial-crises-january-iap-2016/207a907c80c74a5226dc975456fccdff_MIT14_09IAP16_lec1_edit.pdf
+file_size: 1034874
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
