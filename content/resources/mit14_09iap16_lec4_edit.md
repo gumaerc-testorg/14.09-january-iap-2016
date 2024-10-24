@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on why financial institutions make losses.
-file: /courses/14-09-financial-crises-january-iap-2016/21758d0c268eb7f87c10c9a250bfd094_MIT14_09IAP16_lec4_edit.pdf
+file: /ol-ocw-studio-app/courses/14-09-financial-crises-january-iap-2016/21758d0c268eb7f87c10c9a250bfd094_MIT14_09IAP16_lec4_edit.pdf
 file_size: 1044405
 file_type: application/pdf
 learning_resource_types:
