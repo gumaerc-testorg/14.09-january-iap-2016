@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on financial crises, leverage, fire sales, and amplification
   mechanisms.
-file: /courses/14-09-financial-crises-january-iap-2016/027f253ad61984bb192f1c5d4c060a17_MIT14_09IAP16_lec3_edit.pdf
+file: /ol-ocw-studio-app/courses/14-09-financial-crises-january-iap-2016/027f253ad61984bb192f1c5d4c060a17_MIT14_09IAP16_lec3_edit.pdf
 file_size: 1116802
 file_type: application/pdf
 learning_resource_types:
