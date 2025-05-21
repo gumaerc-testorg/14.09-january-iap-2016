@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on financial crises, credit crunches and runs, counterparty
   risk, complexity, interconnections, and panics.
-file: /ol-ocw-studio-app/courses/14-09-financial-crises-january-iap-2016/3e802afa6c3cffe19a19827b93804f15_MIT14_09IAP16_lec7_edited.pdf
+file: /courses/14-09-financial-crises-january-iap-2016/3e802afa6c3cffe19a19827b93804f15_MIT14_09IAP16_lec7_edited.pdf
 file_size: 1506388
 file_type: application/pdf
 learning_resource_types:
