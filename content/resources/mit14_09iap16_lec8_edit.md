@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on policy responses to financial crises.
-file: /ol-ocw-studio-app/courses/14-09-financial-crises-january-iap-2016/b3b998e10c95ed5c3242f09036cb300d_MIT14_09IAP16_lec8_edit.pdf
+file: /courses/14-09-financial-crises-january-iap-2016/b3b998e10c95ed5c3242f09036cb300d_MIT14_09IAP16_lec8_edit.pdf
 file_size: 1745466
 file_type: application/pdf
 learning_resource_types:
