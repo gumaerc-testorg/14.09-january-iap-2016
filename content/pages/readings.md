@@ -39,9 +39,9 @@ Understanding Financial Crises: Lessons from History
 {{< tdopen >}}
 
 
-Brunnermeier, Markus K. "[Deciphering the Liquidity and Credit Crunch 2007–2008](http://dx.doi.org/10.1257/jep.23.1.77)." _Journal of Economic Perspectives_ 23, no. 1 (2009): 77–100.
+Brunnermeier, Markus K. "{{% resource_link "522e29ff-b71c-4258-9c6e-c412e5f32675" "Deciphering the Liquidity and Credit Crunch 2007–2008" %}}." _Journal of Economic Perspectives_ 23, no. 1 (2009): 77–100.
 
-\* Allen, Franklin, and Douglas Gale. Chapter 1 in _Understanding Financial Crises_. Oxford University Press, 2009. ISBN: 9780199251421. \[Preview with [Google Books](http://books.google.com/books?id=aFITDAAAQBAJ&pg=PA1=onepage)\]
+\* Allen, Franklin, and Douglas Gale. Chapter 1 in _Understanding Financial Crises_. Oxford University Press, 2009. ISBN: 9780199251421. \[Preview with {{% resource_link "87c5b482-e777-4dff-aea5-94ae09507c9d" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -57,11 +57,11 @@ Borrowing Constraints and the Net Worth Channel
 {{< tdopen >}}
 
 
-\* Holmstrom, Bengt, and Jean Tirole. "[Financial Intermediation, Loanable Funds, and the Real Sector](http://dx.doi.org/10.1162/003355397555316)." _Quarterly Journal of Economics_ 112, no. 3 (1997): 663–91.
+\* Holmstrom, Bengt, and Jean Tirole. "{{% resource_link "402eefaa-0dd3-483b-8ab4-0dcc3d9d8559" "Financial Intermediation, Loanable Funds, and the Real Sector" %}}." _Quarterly Journal of Economics_ 112, no. 3 (1997): 663–91.
 
-Chodorow-Reich, Gabriel. "[The Employment Effects of Credit Market Disruptions: Firm-level Evidence from the 2008–9 Financial Crisis](http://dx.doi.org/10.1093/qje/qjt031)." _Quarterly Journal of Economics_ 129, no. 1 (2014): 1–59.
+Chodorow-Reich, Gabriel. "{{% resource_link "a67dce94-193b-42c8-b27b-bc36cf524093" "The Employment Effects of Credit Market Disruptions: Firm-level Evidence from the 2008–9 Financial Crisis" %}}." _Quarterly Journal of Economics_ 129, no. 1 (2014): 1–59.
 
-\* Campello, Murillo, John R. Graham, et al. "[The Real Effects of Financial Constraints: Evidence from a Financial Crisis](http://dx.doi.org/10.1016/j.jfineco.2010.02.009)." _Journal of Financial Economics_ 97, no. 3 (2010): 470–87.
+\* Campello, Murillo, John R. Graham, et al. "{{% resource_link "03d2091f-fd9a-4c06-81bc-eaae4fd6f15a" "The Real Effects of Financial Constraints: Evidence from a Financial Crisis" %}}." _Journal of Financial Economics_ 97, no. 3 (2010): 470–87.
 
 
 {{< tdclose >}}
@@ -77,11 +77,11 @@ Leverage, Fire Sales, and Amplification Mechanisms
 {{< tdopen >}}
 
 
-\* Geanakoplos, John. ["The Leverage Cycle." (PDF)](https://www.journals.uchicago.edu/doi/full/10.1086/648285) _NBER Macroeconomics Annual_ 24 (2009): 1–65.
+\* Geanakoplos, John. {{% resource_link "d563ed84-4a53-47eb-a51a-fa893b5c42ed" "\"The Leverage Cycle.\" (PDF)" %}} _NBER Macroeconomics Annual_ 24 (2009): 1–65.
 
-\* Jorion, Philippe. "[Risk Management Lessons from Long Term Capital Management](http://dx.doi.org/10.1111/1468-036X.00125)." _European Financial Management_ 6, no. 3 (2000): 277–300.
+\* Jorion, Philippe. "{{% resource_link "10934b4f-6a5e-4d74-9557-16d4f84a6450" "Risk Management Lessons from Long Term Capital Management" %}}." _European Financial Management_ 6, no. 3 (2000): 277–300.
 
-Shleifer, Andrei, and Robert Vishny. "[Fire Sales in Finance and Macroeconomics](http://dx.doi.org/10.1257/jep.25.1.29)." _Journal of Economic Perspectives_ 25, no. 1 (2011): 29–48.
+Shleifer, Andrei, and Robert Vishny. "{{% resource_link "a4604833-227e-42cc-8b6d-f87acc383c5d" "Fire Sales in Finance and Macroeconomics" %}}." _Journal of Economic Perspectives_ 25, no. 1 (2011): 29–48.
 
 
 {{< tdclose >}}
@@ -97,17 +97,17 @@ Understanding Banks' Losses: Moral Hazard or Mistakes
 {{< tdopen >}}
 
 
-\* Rose, Clayton S., Daniel Baird Bergstresser, et al. "[The Tip of the Iceberg: JP Morgan Chase and Bear Stearns (A)](http://www.hbs.edu/faculty/Pages/item.aspx?num=36849)." _Harvard Business School Case_. Case: 309–001, January 2009. (Revised November 2011.)
+\* Rose, Clayton S., Daniel Baird Bergstresser, et al. "{{% resource_link "59da4d22-d2db-482e-b1bb-7c8613762835" "The Tip of the Iceberg: JP Morgan Chase and Bear Stearns (A)" %}}." _Harvard Business School Case_. Case: 309–001, January 2009. (Revised November 2011.)
 
-Acharya, Viral, Thomas Philippon, et al. "[The Financial Crisis of 2007–2009: Causes and Remedies](http://dx.doi.org/10.1111/j.1468-0416.2009.00147_2.x)." _Financial Markets, Institutions & Instruments_ 18, no. 2 (2009): 89–137.
+Acharya, Viral, Thomas Philippon, et al. "{{% resource_link "58216044-b75e-40c2-accd-913b220bbdab" "The Financial Crisis of 2007–2009: Causes and Remedies" %}}." _Financial Markets, Institutions & Instruments_ 18, no. 2 (2009): 89–137.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262018296) Barberis, Nicholas C. "Psychology and the Financial Crisis of 2007–2008." In _Financial Innovation: Too Much Or Too Little?_ MIT Press, 2012, pp. 15–28. ISBN: 9780262018296. \[Preview with [Google Books](http://books.google.com/books?id=V93xCwAAQBAJ&pg=PA15=onepage)\]
+{{% resource_link "91e24f17-ff31-4006-9f18-7e7d249202e1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Barberis, Nicholas C. "Psychology and the Financial Crisis of 2007–2008." In _Financial Innovation: Too Much Or Too Little?_ MIT Press, 2012, pp. 15–28. ISBN: 9780262018296. \[Preview with {{% resource_link "a8a61d4d-d900-4f31-be08-d8492e4961f7" "Google Books" %}}\]
 
-Cheng, Ing-haw, Sahil Raina, et al. "[Wall Street and the Housing Bubble](http://dx.doi.org/10.1257/aer.104.9.2797)." _American Economic Review_ 104, no. 9 (2014): 2797–829.
+Cheng, Ing-haw, Sahil Raina, et al. "{{% resource_link "0d85a2b0-7d09-4dca-8be0-250938d8c048" "Wall Street and the Housing Bubble" %}}." _American Economic Review_ 104, no. 9 (2014): 2797–829.
 
-Ma, Yueran. "[Bank CEO Optimism and the Financial Crisis](http://dx.doi.org/10.2139/ssrn.2392683)." Harvard University, 2014. (Working paper)
+Ma, Yueran. "{{% resource_link "945b8788-7ce6-4962-9b1e-2ee3208b3193" "Bank CEO Optimism and the Financial Crisis" %}}." Harvard University, 2014. (Working paper)
 
-Akerlof, George A., and Paul M. Romer. "[Looting: The Economic Underworld of Bankruptcy for Profit](http://www.brookings.edu/about/projects/bpea/papers/1993/bankruptcy-for-profit-akerlof)." _Brookings Papers on Economic Activity_, no. 2 (1993): 1–73.
+Akerlof, George A., and Paul M. Romer. "{{% resource_link "1d2b5774-12a2-465b-925d-907c4160216a" "Looting: The Economic Underworld of Bankruptcy for Profit" %}}." _Brookings Papers on Economic Activity_, no. 2 (1993): 1–73.
 
 
 {{< tdclose >}}
@@ -123,13 +123,13 @@ Liquidity, Part 1: Maturity Mismatch and Banking Panics
 {{< tdopen >}}
 
 
-\* Diamond, Douglas W., and Philip H. Dybvig. "[Bank Runs, Deposit Insurance, and Liquidity](http://dx.doi.org/10.1086/261155)." _Journal of Political Economy_ 91, no. 3 (1983): 401–19.
+\* Diamond, Douglas W., and Philip H. Dybvig. "{{% resource_link "dd860566-9ce9-44e3-bbdc-da728e4c5850" "Bank Runs, Deposit Insurance, and Liquidity" %}}." _Journal of Political Economy_ 91, no. 3 (1983): 401–19.
 
-Bordo, Michael D. ["The Lender of Last Resort: Alternative Views and Historical Experience." (PDF - 1.5 MB)](https://www.richmondfed.org/-/media/richmondfedorg/publications/research/economic_review/1990/pdf/er760103.pdf) _FRB Richmond Economic Review_ 76, no. 1 (1990): 18–29.
+Bordo, Michael D. {{% resource_link "6d3042ca-5ee9-4261-be52-0c064f46ad50" "\"The Lender of Last Resort: Alternative Views and Historical Experience.\" (PDF - 1.5 MB)" %}} _FRB Richmond Economic Review_ 76, no. 1 (1990): 18–29.
 
-Gorton, Gary, and Andrew Metrick. "[The Federal Reserve and Panic Prevention: The Roles of Financial Regulation and Lender of Last Resort](http://dx.doi.org/10.1257/jep.27.4.45)." _Journal of Economic Perspectives_ 27, no. 4 (2013): 45–64.
+Gorton, Gary, and Andrew Metrick. "{{% resource_link "35f87a95-979a-4668-8365-6155f8ef1afc" "The Federal Reserve and Panic Prevention: The Roles of Financial Regulation and Lender of Last Resort" %}}." _Journal of Economic Perspectives_ 27, no. 4 (2013): 45–64.
 
-\* Shin, Hyun Song. "[Reflections on Northern Rock: The Bank Run that Heralded the Global Financial Crisis](http://dx.doi.org/10.1257/jep.23.1.101)." _Journal of Economic Perspectives_ 23, no. 1 (2009): 101–20.
+\* Shin, Hyun Song. "{{% resource_link "ce01e3b0-5514-46ac-9775-9dc48dee4442" "Reflections on Northern Rock: The Bank Run that Heralded the Global Financial Crisis" %}}." _Journal of Economic Perspectives_ 23, no. 1 (2009): 101–20.
 
 
 {{< tdclose >}}
@@ -145,11 +145,11 @@ Liquidity, Part 2: Debt, Panics, and Flight to Quality
 {{< tdopen >}}
 
 
-\* Holmstrom, Bengt. ["Understanding the Role of Debt in the Financial System." (PDF - 1.2MB)](http://www.bis.org/publ/work479.pdf) Bank for International Settlements Working Paper no. 479, 2015.
+\* Holmstrom, Bengt. {{% resource_link "09c2d7c0-c8d8-432a-b728-fd0d01166640" "\"Understanding the Role of Debt in the Financial System.\" (PDF - 1.2MB)" %}} Bank for International Settlements Working Paper no. 479, 2015.
 
-Gorton, Gary B. "[Questions and Answers about the Financial Crisis-Prepared for the US Financial Crisis Inquiry Commission](http://dx.doi.org/10.2139/ssrn.1557279)." _National Bureau of Economic Research_, February 2010.
+Gorton, Gary B. "{{% resource_link "d15fde3c-a2c4-49f7-b6a3-cab3238ce318" "Questions and Answers about the Financial Crisis-Prepared for the US Financial Crisis Inquiry Commission" %}}." _National Bureau of Economic Research_, February 2010.
 
-\* Caballero, Ricardo J., and Arvind Krishnamurthy. "[Collective Risk Management in a Flight to Quality Episode](http://dx.doi.org/10.1111/j.1540-6261.2008.01394.x)." _The Journal of Finance_ 63, no. 5 (2008): 2195–230.
+\* Caballero, Ricardo J., and Arvind Krishnamurthy. "{{% resource_link "064e360f-e766-466d-bf13-8e34bb3eded8" "Collective Risk Management in a Flight to Quality Episode" %}}." _The Journal of Finance_ 63, no. 5 (2008): 2195–230.
 
 
 {{< tdclose >}}
@@ -165,11 +165,11 @@ Interconnections and Complexity
 {{< tdopen >}}
 
 
-McDonald, Robert, and Anna Paulson. "[AIG in Hindsight](http://dx.doi.org/10.1257/jep.29.2.81)." _Journal of Economic Perspectives_ 29, no. 2 (2015): 81–106.
+McDonald, Robert, and Anna Paulson. "{{% resource_link "4908a430-c7e3-4e5d-b448-158598d12b7a" "AIG in Hindsight" %}}." _Journal of Economic Perspectives_ 29, no. 2 (2015): 81–106.
 
-\* Acemoglu, Daron, Asuman Ozdaglar, et al. ["Systemic Risk and Stability in Financial Networks." (PDF)](http://www.nber.org/papers/w18727.pdf) National Bureau of Economic Research Working Paper no. 18727, 2013.
+\* Acemoglu, Daron, Asuman Ozdaglar, et al. {{% resource_link "91af3173-8ce1-47d3-844f-6d419c085f46" "\"Systemic Risk and Stability in Financial Networks.\" (PDF)" %}} National Bureau of Economic Research Working Paper no. 18727, 2013.
 
-\* Caballero, Ricardo J., and Alp Simsek. "[Fire Sales in a Model of Complexity](http://dx.doi.org/10.1111/jofi.12087)." _The Journal of Finance_ 68, no. 6 (2013): 2549–87.
+\* Caballero, Ricardo J., and Alp Simsek. "{{% resource_link "adb2932e-3081-4e23-9b27-8d2a573bc0c7" "Fire Sales in a Model of Complexity" %}}." _The Journal of Finance_ 68, no. 6 (2013): 2549–87.
 
 
 {{< tdclose >}}
@@ -191,17 +191,17 @@ Take Home Exam, due in 24 hours
 {{< tdopen >}}
 
 
-Bernanke, Ben S. "[The Crisis and the Policy Response](https://www.federalreserve.gov/newsevents/speech/bernanke20090113a.htm)." _Stamp Lecture, London School of Economics_, January 13, 2009.
+Bernanke, Ben S. "{{% resource_link "70850638-a4a6-48cb-babc-a7f11bd51ca9" "The Crisis and the Policy Response" %}}." _Stamp Lecture, London School of Economics_, January 13, 2009.
 
-Kohn, Donald L. "[The Federal Reserve's Policy Actions During the Financial Crisis and Lessons for the Future](http://www.federalreserve.gov/newsevents/speech/kohn20100513a.htm)." Carleton University, May 13, 2010.
+Kohn, Donald L. "{{% resource_link "9b002a9a-d1f6-4de2-9e3a-738616e6dd24" "The Federal Reserve's Policy Actions During the Financial Crisis and Lessons for the Future" %}}." Carleton University, May 13, 2010.
 
-Swagel, Phillip. "[Legal, Political, and Institutional Constraints on the Financial Crisis Policy Response](http://dx.doi.org/10.1257/jep.29.2.107)." _Journal of Economic Perspectives_ 29, no. 2 (2015): 107–22.
+Swagel, Phillip. "{{% resource_link "0cb96436-45e7-4b21-a433-024a6b2c24c9" "Legal, Political, and Institutional Constraints on the Financial Crisis Policy Response" %}}." _Journal of Economic Perspectives_ 29, no. 2 (2015): 107–22.
 
-\* Caballero, Ricardo J. "[Sudden Financial Arrest](http://dx.doi.org/10.1057/imfer.2010.1)." _IMF Economic Review_ 58, no. 1 (2010): 6–36.
+\* Caballero, Ricardo J. "{{% resource_link "f8e14ab3-e5bf-434d-a8d5-d5a5a53c6df5" "Sudden Financial Arrest" %}}." _IMF Economic Review_ 58, no. 1 (2010): 6–36.
 
-\* Hanson, Samuel G., Anil K. Kashyap, et al. "[A Macroprudential Approach to Financial Regulation](http://dx.doi.org/10.1257/jep.25.1.3)." _Journal of Economic Perspectives_ 25, no. 1 (2011): 3–28.
+\* Hanson, Samuel G., Anil K. Kashyap, et al. "{{% resource_link "dc7a2578-d12b-4cf8-8fdf-3878bc8fb197" "A Macroprudential Approach to Financial Regulation" %}}." _Journal of Economic Perspectives_ 25, no. 1 (2011): 3–28.
 
-Blanchard, Olivier, Giovanni Dell'Ariccia, et al. "[Rethinking Macroeconomic Policy](http://dx.doi.org/10.1111/j.1538-4616.2010.00334.x)." _Journal of Money, Credit and Banking_ 42, no. 1 (2010): 199–215.
+Blanchard, Olivier, Giovanni Dell'Ariccia, et al. "{{% resource_link "276f83e0-afd0-413c-9913-80808a07cfbb" "Rethinking Macroeconomic Policy" %}}." _Journal of Money, Credit and Banking_ 42, no. 1 (2010): 199–215.
 
 
 {{< tdclose >}}
